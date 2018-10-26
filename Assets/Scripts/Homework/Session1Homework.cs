@@ -51,5 +51,13 @@ public class Session1Homework : MonoBehaviour
         Debug.Log(a + "+" + b + "=" + addition);
     }
 
-    
+
+
+    float NumberAddition2(float a, float b)
+    {
+        a = 10;
+        b = 20;
+        return a + b;
+    }
+
 }
