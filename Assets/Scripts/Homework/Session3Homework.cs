@@ -24,17 +24,17 @@ public class Session3Homework : MonoBehaviour
 
 
         //Why is this way wrong??
-        /*if(Input.GetKey(KeyCode.Space))
+        if(Input.GetKey(KeyCode.Space))
         {
-            this.GetComponent<MeshRenderer>().material.color = new Color(Random.value, Random.value, Random.value);
-        }*/
+            this.transform.GetChild(0).GetComponent<MeshRenderer>().material.color = new Color(Random.value, Random.value, Random.value);
+        }
 
 
         //Create a cube and change its colour when key is pressed or mouse is pressed
-        if (Input.GetKey(KeyCode.Space))
+        /*if (Input.GetKey(KeyCode.Space))
         {
             prefabColor.color = new Color(Random.value, Random.value, Random.value);
-        }
+        }*/
 
     }
 }
