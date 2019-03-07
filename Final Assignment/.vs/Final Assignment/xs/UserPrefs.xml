@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2E285DE6-B3ED-8167-5756-B073A81BA04B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs">
+    <Files>
+      <File FileName="Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs" Line="89" Column="14" />
+      <File FileName="Assets/Tutorials/2-GameOfLifeStack/Source/Behaviours/Cell.cs" Line="16" Column="19" />
+      <File FileName="Assets/Tutorials/1-GameOfLifeIntro/Source/GameOfLife2D.cs" Line="85" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

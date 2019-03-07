@@ -20,7 +20,8 @@ public class Session4Homework : MonoBehaviour
         for (int i = 0; i < count;i++)
         {
             GameObject myPrefab = Instantiate(prefab,this.transform);
-            Vector3 pos = new Vector3(i * spacingX, 0f, 0f);
+            //Vector3 pos = new Vector3(i * spacingX, 0f, 0f);
+            Vector3 pos = new Vector3(UnityEngine.Random.Range(-40, 40), UnityEngine.Random.Range(0, 80), UnityEngine.Random.Range(-40, 40));
             myPrefab.transform.localPosition = pos;
 
         }
